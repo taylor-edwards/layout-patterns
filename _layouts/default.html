@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="container">
+      {% include header.html %}
+
+      <div class="sidebar nav">
+        <h3>{{ site.title }}</h3>
+        <nav>
+          <ul>
+          {% for page in site.pages %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
+
+      <main>{{ content }}</main>
+
+      <aside class="sidebar">
+        <ul>
+          <li>
+            <a href="#">
+              <div class="placeholder-image"></div>
+              <p>AOL</p>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <div class="placeholder-image"></div>
+              <p>MSN</p>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <div class="placeholder-image"></div>
+              <p>Yahoo!</p>
+            </a>
+          </li>
+        </ul>
+      </aside>
+
+      {% include footer.html %}
+
+    </div>
+  </body>
+</html>

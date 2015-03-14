@@ -1,0 +1,17 @@
+div[class^="placeholder-"] {
+  background: #606e87;
+  height: 1px;
+  margin-bottom: 56.25%;
+  max-width: 100%;
+  padding: 0;
+}
+img,
+.placeholder-image {
+  display: block;
+  margin-top: .75em;
+  margin-right: auto;
+  margin-left: auto;
+}
+.placeholder-image {
+  width: 230px;
+}
