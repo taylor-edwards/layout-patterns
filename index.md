@@ -2,6 +2,7 @@
 layout: default
 link: Overview
 title: The Rise of Layout Patterns
+order: 1
 permalink: /
 ---
 
