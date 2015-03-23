@@ -10,15 +10,4 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="icon" type="image/png" href="shortcuts/logo-128.png">
-
-  <script>
-  function listeners() {
-    var nav = document.getElementsByClassName("nav")[0];
-    nav.addEventListener("touchstart", handleStart, false);
-    nav.addEventListener("touchend", handleEnd, false);
-    nav.addEventListener("touchcancel", handleCancel, false);
-    nav.addEventListener("touchleave", handleEnd, false);
-    nav.addEventListener("touchmove", handleMove, false);
-  }
-  </script>
 </head>
