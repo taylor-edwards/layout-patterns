@@ -30,8 +30,11 @@ $grey       : #999;
 $black      : #333;
 
 $type-base  : 20px;
-$grid-vbase : 30px;
+$grid-vbase : 1.5 * $type-base;
 $grid-hbase : 100px;
+
+$sans       : ff-enzo-web, "ff-enzo-web", verdana, helvetica, sans-serif;
+$serif      : ff-tisa-web-pro, "ff-tisa-web-pro", georgia, serif;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

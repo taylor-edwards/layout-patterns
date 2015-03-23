@@ -1,5 +1,45 @@
 /* Layout Resets */
 body {
   background: $white;
+  margin: 0;
 }
 
+.site-header {
+  box-sizing: border-box;
+  margin-top: 1.5 * $grid-vbase;
+  margin-bottom: $grid-vbase * 3;
+  text-align: center;
+}
+.border {
+  background: url(../images/pattern.png);
+  height: 2px;
+  width: 100%;
+}
+header,
+main,
+footer {
+  margin: auto;
+  max-width: 1100px;
+}
+nav {
+  display: inline-block; 
+}
+article,
+aside {
+  display: inline-block;
+  vertical-align: top;
+}
+article {
+  margin-left: $grid-hbase;
+  width: 54%
+}
+aside {
+  margin-left: 4.55%;
+  margin-right: $grid-hbase;
+  width: 22%;
+}
+footer {
+  clear: both;
+  margin-top: 1.5 * $grid-vbase;
+  max-width: 1100px - (2 * $grid-hbase);
+}
