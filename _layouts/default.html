@@ -2,23 +2,22 @@
 <html>
   {% include head.html %}
   <body>
-    <div class="container">
-      {% include header.html %}
-
-      <div class="sidebar nav">
-        <nav>
-          <ul>
-            <li><h3>Case Studies</h3></li>
-          {% for page in site.case-studies %}
-            <li><a href="{{ page.url }}">{{ page.title | remove:"Case Study – " }}</a></li>
-          {% endfor %}
-          </ul>
-        </nav>
-      </div>
-
-      <main>{{ content }}</main>
-
-      {% include footer.html %}
-    </div>
+    {% include header.html %}
+    <main>
+      <header class="page-header">
+        <h1>{{ page.title }}</h1>
+        <div class="border"></div>
+      </header>
+      <article class="content">{{ content }}</article>
+      <aside class="sidebar">
+        <ul>
+          <li><h3>Case Studies</h3></li>
+        {% for page in site.case-studies %}
+          <li><h4><a href="{{ page.url }}">{{ page.title | remove:"Case Study – " }}</a></h4></li>
+        {% endfor %}
+        </ul>
+      </aside>
+    </main>
+    {% include footer.html %}
   </body>
 </html>
