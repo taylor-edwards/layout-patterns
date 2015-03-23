@@ -6,11 +6,11 @@
       {% include header.html %}
 
       <div class="sidebar nav">
-        <h3>{{ site.title }}</h3>
         <nav>
           <ul>
-          {% for page in site.pages %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            <li><h3>Case Studies</h3></li>
+          {% for page in site.case-studies %}
+            <li><a href="{{ page.url }}">{{ page.title | remove:"Case Study – " }}</a></li>
           {% endfor %}
           </ul>
         </nav>
@@ -18,31 +18,7 @@
 
       <main>{{ content }}</main>
 
-      <aside class="sidebar">
-        <ul>
-          <li>
-            <a href="#">
-              <div class="placeholder-image"></div>
-              <p>AOL</p>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <div class="placeholder-image"></div>
-              <p>MSN</p>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <div class="placeholder-image"></div>
-              <p>Yahoo!</p>
-            </a>
-          </li>
-        </ul>
-      </aside>
-
       {% include footer.html %}
-
     </div>
   </body>
 </html>

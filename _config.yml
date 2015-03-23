@@ -9,5 +9,8 @@ url: "http://layoutpatterns.com"
 twitter_username: rumudiez
 github_username:  rumudiez
 
+collections:
+  case-studies:
+    output: true
 # Build settings
 markdown: kramdown
