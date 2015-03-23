@@ -3,12 +3,24 @@ body {
   background: $white;
   margin: 0;
 }
-
+.container {
+  padding: 0 5em;
+}
 .site-header {
   box-sizing: border-box;
-  margin-top: 1.5 * $grid-vbase;
-  margin-bottom: $grid-vbase * 3;
+  margin-top: 2.25em;
+  margin-bottom: 6em;
   text-align: center;
+  img {
+    position: absolute;
+    height: 1.9em;
+    left: -2.5em;
+    top: -1.25em;
+    width: 1.9em;
+  }
+}
+.page-header {
+  margin-bottom: .75em;
 }
 .border {
   background: url(../images/pattern.png);
@@ -24,22 +36,54 @@ footer {
 nav {
   display: inline-block; 
 }
+nav li {
+  display: inline-block;
+  margin-left: 1em;
+}
 article,
 aside {
   display: inline-block;
   vertical-align: top;
 }
 article {
-  margin-left: $grid-hbase;
-  width: 54%
+  width: 64%
 }
 aside {
-  margin-left: 4.55%;
-  margin-right: $grid-hbase;
-  width: 22%;
+  margin-left: 5%;
+  width: 30%;
 }
 footer {
   clear: both;
-  margin-top: 1.5 * $grid-vbase;
-  max-width: 1100px - (2 * $grid-hbase);
+  margin-top: 2.25em;
+  margin-bottom: 3em;
+  max-width: 1100px;
+}
+@media screen and (max-width: 1060px) {
+  nav {
+    margin-left: -1.5em; // -1 * [nav li].marginLeft
+  }
+}
+@media screen and (max-width: 360px) {
+  body {
+    font-size: 2.5vw;
+  }
+  .container {
+    padding: 0 3.5em;
+  }
+  .site-header {
+    margin-top: 1em;
+    margin-bottom: 2em;
+  }
+  nav li:first-child {
+    display: block;
+    margin-bottom: 1em;
+    text-align: left;
+    width: 100%;
+  }
+  article,
+  aside {
+    display: block;
+    margin: 1.5em 0 3em;
+    width: 100%;
+  }
 }

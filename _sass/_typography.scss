@@ -15,8 +15,8 @@ p,
 ol,
 ul,
 dl {
-  margin-top: $grid-vbase;
-  margin-bottom: $grid-vbase;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 h1,
 h2,
@@ -29,7 +29,7 @@ h1 {
   font-family: $sans;
   font-size: 2.5em;
   font-weight: 700;
-  margin-bottom: $grid-vbase;
+  margin-bottom: .5em;
   text-align: center;
 }
 h2 {
@@ -58,16 +58,10 @@ dl {
   padding: 0;
 }
 li {
-
+  position: relative;
 }
-nav {
-  li {
-    float: left;
-    margin-left: $grid-hbase / 2;
-  }
-  h2 {
-    line-height: .5em;
-  }
+nav h2 {
+  line-height: .5em;
 }
 footer {
   color: $grey;
@@ -96,4 +90,13 @@ em {
 strong {
   font-family: $sans;
   font-weight: 700;
+}
+
+@media screen and (max-width: 1060px) {
+  body {
+    font-size: 2vw;
+  }
+  nav li {
+    margin-left: 1em;
+  }
 }
