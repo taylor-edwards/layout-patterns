@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Case Study – Yahoo
+title: Yahoo
 permalink: /case-studies/yahoo/
 ---
 
