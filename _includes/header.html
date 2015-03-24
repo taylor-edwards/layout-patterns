@@ -1,3 +1,12 @@
-<header>
-  <h1>The Rise of Layout Patterns</h1>
+<header class="site-header">
+  <nav>
+    <h2><img src="/images/logo.svg">{{ site.title }}</h2>
+    <ul>
+  {% for page in site.pages %}
+    {% if page.title %}
+      <li><h3><a href="{{ page.url }}">{{ page.link }}</a></h3></li>
+    {% endif %}
+  {% endfor %}
+    </ul>
+  </nav>
 </header>

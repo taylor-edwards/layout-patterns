@@ -1,6 +1,7 @@
 ---
 layout: page
-title: MSN
+link: MSN
+title: Case Study – MSN
 permalink: /case-studies/msn/
 ---
 

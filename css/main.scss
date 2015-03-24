@@ -16,6 +16,25 @@
     }
 }
 
+$red        : #f56;
+$blue       : #056;
+$green      : #5a6;
+$yellow     : #fd6;
+
+$dark-red   : #c45;
+$dark-blue  : #045;
+$dark-green : #485;
+
+$white      : #fff;
+$grey       : #999;
+$black      : #333;
+
+$type-base  : 20px;
+$grid-vbase : 1.5 * $type-base;
+$grid-hbase : 5 * $type-base;
+
+$sans       : ff-enzo-web, "ff-enzo-web", verdana, helvetica, sans-serif;
+$serif      : ff-tisa-web-pro, "ff-tisa-web-pro", georgia, serif;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

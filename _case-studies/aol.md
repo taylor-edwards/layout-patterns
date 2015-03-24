@@ -1,6 +1,7 @@
 ---
 layout: page
-title: AOL
+link: AOL
+title: Case Study – AOL
 permalink: /case-studies/aol/
 ---
 

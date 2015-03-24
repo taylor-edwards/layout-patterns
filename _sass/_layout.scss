@@ -1,70 +1,97 @@
+/* Layout Resets */
+body {
+  background: $white;
+  margin: 0;
+}
 .container {
-  display: block;
-  margin: 1.375em auto;
-  max-width: 66em; /* 1056px */
-  padding-left: 12.5em; /* 8.5em column + .375em padding + 1em margins */
-  position: relative;
+  padding: 0 5em;
 }
-header,
-main,
-aside,
-div,
-footer {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
+.site-header {
   box-sizing: border-box;
-  display: block;
-  padding: .6875em .3em;
-  position: relative;
+  margin-top: 2.25em;
+  margin-bottom: 6em;
+  text-align: center;
+  img {
+    position: absolute;
+    height: .975em;
+    left: -1.25em;
+    top: -1em;
+    width: .975em;
+  }
+  h2 {
+    display: inline-block;
+    margin-left: 1.25em; // -1 * [.siteheader img].left
+    position: relative;
+  }
+}
+.page-header {
+  margin-bottom: .75em;
+}
+.border {
+  background: url(/images/pattern.png);
+  height: 2px;
+  width: 100%;
 }
 header,
-footer {
-  padding-left: 1em;
-}
 main,
-.sidebar {
-  float: left;
-  margin-left: 1em;
-  margin-right: 1em;
+footer {
+  margin: auto;
+  max-width: 1100px;
 }
-main {
-  width: calc(100% - 20em);
+nav {
+  display: inline-block;
+  ul {
+    margin-left: -1em; // -1 * [nav li].marginLeft
+  }
+  li {
+    display: inline-block;
+    margin-left: 2em;
+  }
 }
-.sidebar.nav {
-  margin-left: -8.5em;
-  position: fixed;
-  width: 8.5em;
+article,
+aside {
+  display: inline-block;
+  vertical-align: top;
 }
-aside.sidebar {
-  width: 15em;
+article {
+  width: 64%
+}
+aside {
+  margin-left: 5%;
+  width: 30%;
 }
 footer {
   clear: both;
+  margin-top: 2.25em;
+  margin-bottom: 3em;
 }
-
-@media screen and (max-width: 63.9em) { /* 1022.4px */
-  main {
-    width: calc(100% - 4em);
-  }
-  aside.sidebar {
-    clear: both;
-    float: none;
-  }
-  aside.sidebar li {
-    float: left;
+@media screen and (min-width: 1100px) {
+  .site-header {
+    h2,
+    ul {
+      float: left;
+    }
+    ul {
+      margin-top: 0;
+      margin-left: 1em;
+    }
+    li {
+      margin-left: 1.25em;
+    }
   }
 }
-
-@media screen and (max-width: 35em) { /* 560px */
+@media screen and (max-width: 400px) {
   .container {
-    padding-left: 2em;
+    padding: 0 2.25em;
   }
-  .sidebar.nav {
-    background: #8d9fbd;
-    color: #e7f0fe;
-    height: 100%;
-    left: -7.5em;
-    margin-left: 0;
-    top: 0;
+  .site-header {
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  article,
+  aside {
+    display: block;
+    margin: 1.5em 0 3em;
+    width: 100%;
   }
 }

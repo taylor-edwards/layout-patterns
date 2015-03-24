@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="39" height="39" viewBox="0 0 39 39" enable-background="new 0 0 39 39" xml:space="preserve">
+<g>
+	<g>
+		<rect x="1.5" y="1.5" fill="#FFFFFF" width="36" height="36"/>
+		<path fill="#333333" d="M36,3v33H3V3H36 M39,0H0v39h39V0L39,0z"/>
+	</g>
+	<rect x="6" y="6" fill="#FF4E66" width="27" height="5"/>
+	<rect x="6" y="13" fill="#FFD366" width="5" height="19"/>
+	<rect x="13" y="13" fill="#004E66" width="20" height="8"/>
+	<rect x="13" y="23" fill="#55AA66" width="20" height="9"/>
+</g>
+</svg>
