@@ -7,6 +7,10 @@ body {
 }
 
 /* Block Elements */
+article,
+aside {
+  margin-top: 1.5em;
+}
 h1,
 h2,
 h3,
@@ -15,14 +19,15 @@ p,
 ol,
 ul,
 dl {
-  margin-top: 1.5em;
+  margin-top: 0;
   margin-bottom: 1.5em;
 }
 h1,
 h2,
 h3,
 h4 {
-  margin: 0;
+  line-height: 1.25;
+  margin: .25em 0;
 }
 h1 {
   color: $blue;
@@ -51,11 +56,21 @@ h4 {
 p {
 
 }
+ul {
+  list-style: none;
+}
 ol,
 ul,
 dl {
-  list-style: none;
-  padding: 0;
+  padding-left: 1.5em;
+  ol,
+  ul,
+  dl {
+    margin: 0;
+  }
+  ul {
+    list-style: circle;
+  }
 }
 li {
   position: relative;

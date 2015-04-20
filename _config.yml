@@ -12,5 +12,6 @@ github_username:  rumudiez
 collections:
   case-studies:
     output: true
+
 # Build settings
 markdown: kramdown
