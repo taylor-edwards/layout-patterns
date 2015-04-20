@@ -2,7 +2,8 @@
   <nav>
     <h2><img src="/images/logo.svg">{{ site.title }}</h2>
     <ul>
-  {% for page in site.pages %}
+  {% assign pages = site.pages | sort:"order" %}
+  {% for page in pages %}
     {% if page.title %}
       <li><h3><a href="{{ page.url }}">{{ page.link }}</a></h3></li>
     {% endif %}
