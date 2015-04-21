@@ -1,0 +1,16 @@
+/* TEAM */
+Designer, Developer: Taylor Edwards
+Site:                www.tayloredwards.net
+Twitter:             @Rumudiez
+Location:            Seattle, Washington
+
+/* THANKS */
+Natalia Ilyin: www.nataliailyin.net
+Tiffany DeMott
+Scott Garner: http://j38.net/
+                            
+/* SITE */    
+Last update: 2015/05/01
+Standards:   HTML5, CSS3
+Components:  Jekyll
+Software:    Sublime Text 2, Jekyll, Real Favicon Generator
