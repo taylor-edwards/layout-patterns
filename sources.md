@@ -73,13 +73,20 @@ Streaming video
 * [Github Pages](https://pages.github.com/)
 * [Real Favicon Generator](http://realfavicongenerator.net/)
 
+###Internet Archive crawler
+{: #crawler}
+
+* [nodejs](https://nodejs.org/)
+* [wkhtmltopdf](http://wkhtmltopdf.org/)
+* Get the [source code on Github &rarr;](https://github.com/Rumudiez/Web-Archive-Scraper)
+
 ###With thanks to:
 {: #thanks}
-* [Kerri Augenstein](http://www.kaugenstein.com/)
+* [Kerri Augenstein &rarr;](http://www.kaugenstein.com/)
 * Tiffany Laine De Mott
-* [Scott Garner](http://j38.net/)
-* [Liz Heidner](http://www.lizheidner.com/)
-* [Natalia Ilyin](www.nataliailyin.net)
+* [Scott Garner &rarr;](http://j38.net/)
+* [Liz Heidner &rarr;](http://www.lizheidner.com/)
+* [Natalia Ilyin &rarr;](http://www.nataliailyin.net)
 
 ---
 

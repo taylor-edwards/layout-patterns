@@ -24,11 +24,11 @@ Most websites can be grouped into the following categories:
 
 These archetypes of web design can be extended by the components of each. As such:
 
-Scroll
+Mix
   : Navigation bar
   : Navigation sidebar (usually on the left)
-  : Endless feed (loads more content on scroll)
-  : External sidebar (actions within do not affect the current page)
+  : Endless feed
+  : External sidebar
 
 Grid
   : Navigation bar
@@ -59,6 +59,6 @@ Stadium
   : External sidebar
   : Simple footer
 
-This taxonomy provides a method of categorization for future layout patterns and a simple assessment of their most likely function – which is a positive indicator of their best suited purpose. If we take sites with features matching one of the sets defined above, we can see that blogs are best suited to the Gamma layout pattern and social media networks make good use of a wide combination of components. Importantly to my case studies, news media seem to be best fit by the Beta pattern.
+This taxonomy provides a method of categorization for future layout patterns and a simple assessment of their most likely function – which is a positive indicator of their best suited purpose. If we take sites with features matching one of the sets defined above, we can see that blogs are best suited to the Legacy layout pattern and social media networks make good use of a wide combination of components, as seen in the Mix pattern. Most importantly to my case studies, news media seem to be best fit by the Grid pattern.
 
 [Dive into the case studies to learn more &rarr;](/case-studies)
