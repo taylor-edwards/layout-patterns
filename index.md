@@ -19,6 +19,7 @@ The most confirming piece of evidence supporting this is the reverse application
 3. Gamma
 4. Delta
 5. Epsilon
+6. Zeta
 
 These categories can be extended by the components of each. As such:
 
@@ -44,11 +45,18 @@ Delta
   : Header bar
   : Navigation bar
   : Highly paginated content
-  
+
 Epsilon
   : Highly hierarchical, self-embedded panes of content
   : Minimal site-level features (navigation, header, footer, etc)
   : Toolbars
+
+Zeta
+  : Navigation bar
+  : Large, central content
+  : Compact sidebar navigation
+  : External sidebar
+  : Simple footer
 
 This taxonomy provides a method of categorization for future layout patterns and a simple assessment of their most likely function – which is a positive indicator of their best suited purpose. If we take sites with features matching one of the sets defined above, we can see that blogs are best suited to the Gamma layout pattern and social media networks make good use of a wide combination of components. Importantly to my case studies, news media seem to be best fit by the Beta pattern.
 

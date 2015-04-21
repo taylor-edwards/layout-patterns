@@ -50,14 +50,24 @@ If we narrow the selection down, however, we can find that there are about five 
 
 Watch the animations: [AOL](/case-studies/aol/), [MSN](/case-studies/msn/) and [Yahoo](/case-studies/yahoo/)
 
-In order to be accurate in as many aspects of my animations as possible, I looked up the most common screen sizes over the past twenty years. The Nielsen Norman Group was an immediate hit and gave a good generalization of the upward trend in screen dimensions. Among other agreeing sources was Statcounter.
+In order to be accurate in as many aspects of my animations as possible, I looked up the most common screen sizes over the past twenty years. The [Nielsen Norman Group](/sources/#nngroup) was an immediate hit and gave a good generalization of the upward trend in screen dimensions. Among [other agreeing sources](/sources/#w3schools) was [Statcounter](/sources/#statcounter), showing more detailed statistics from 2009 onward.
 
 Using a slight combination of these sources to get a wider range of data, I picked out the largest average monitor size with a simple share majority around each of my five samples, with the exception of using 1920×1080 pixels for 2015’s samples; the actual most common is still 1366×768 pixels, but that is waning quickly as higher density displays become more and more popular.
 
 In efforts to find suitable audio to accompany the animations, I searched high and low for what I thought would be appropriate (and royalty-free) music. Ultimately, I both felt and was advised to record my own music. Using [a pair of mics](/sources/#recording) and a combination of [audio software](/sources/#recording), I recorded Robert Muczynski’s “[Gallery](/sources/#music)” suite for unaccompanied cello. The pieces within vary naturally, but have of an earnest and jaunty vibe that pairs well with my visual approach.
 
-[View more about my sources &rarr;](/sources/)
+##Creating the website
+
+I created this website [from scratch](/sources/#website) in order to present my project in its native medium and most directly to its audience. This website uses modern (2015) web standards and was developed for equally modern browsers.
+
+Before starting on the visual design, I inventoried my content and made a hierarchy tree to map out all the information I needed to organize and display. I then combined and translated those nodes to create a sitemap and ultimately from that a visual styleguide and example page mockup. After numerous iterations and a lackluster attempted v1.0 release, I completed the frame of this Jekyll-driven site and was then able to import my content.
+
+Adding writing first, then images and finally video, I made tweaks along the way to support and unify various elements like definition lists and deeper heading levels. The site is now hosted by Github Pages directly from a branch in its remote repository.
+
+View the [source code on Github &rarr;](https://github.com/Rumudiez/Layout-Patterns)
 
 ##On Continuation and Usage
 
-I believe these definitions of [layout patterns](/#patterns) can be further abstracted into a more flexible and less content-based system of components. Hopefully layout patterns can be utilized in design practice to provide safer methods of experimentation and to help beginners understand just how multifaceted web design can be.
+I believe my definitions of [layout patterns](/#patterns) can be further abstracted into a more flexible and less content-based system of components. Hopefully layout patterns can be utilized in design practice to provide safer methods of experimentation and to help beginners understand just how multifaceted web design can be.
+
+[View more about my sources &rarr;](/sources/)
