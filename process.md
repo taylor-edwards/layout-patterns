@@ -68,6 +68,6 @@ View the [source code on Github &rarr;](https://github.com/Rumudiez/Layout-Patte
 
 ##On Continuation and Usage
 
-I believe my definitions of [layout patterns](/#patterns) can be further abstracted into a more flexible and less content-based system of components. Hopefully layout patterns can be utilized in design practice to provide safer methods of experimentation and to help beginners understand just how multifaceted web design can be.
+I believe my definitions of [layout patterns](/#archetypes) can be further abstracted into a more flexible and less content-based system of components. Hopefully layout patterns can be utilized in design practice to provide safer methods of experimentation and to help beginners understand just how multifaceted web design can be.
 
 [View more about my sources &rarr;](/sources/)

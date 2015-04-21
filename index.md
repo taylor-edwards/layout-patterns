@@ -1,7 +1,7 @@
 ---
 layout: default
 link: Overview
-title: Analyzing of Layout Patterns
+title: A Visual Analysis of Layout Patterns
 order: 1
 permalink: /
 ---
@@ -12,7 +12,8 @@ My answer is this: functionality is mutually dependent on layout and web design 
 
 The most confirming piece of evidence supporting this is the reverse application of the sorting technique. If you group websites together by function alone (i.e. social media, news media, forum, etc), you'll notice the groupings form in the same way as if you categorized based on layout alone. My reason for not simply sorting by function, however, is that implementation and user flows are much more flexible than layout design, and tend to fluctuate significantly between even these similar websites. Staying within the base-level of layout patterns, I've been able to provide a consistent and accurate taxonomy of web design.
 
-<p id="patterns">Most websites can be grouped into the following categories (names pending):</p>
+Most websites can be grouped into the following categories (names pending):
+{: archetypes}
 
 1. Alpha
 2. Beta
@@ -21,7 +22,7 @@ The most confirming piece of evidence supporting this is the reverse application
 5. Epsilon
 6. Zeta
 
-These categories can be extended by the components of each. As such:
+These archetypes of web design can be extended by the components of each. As such:
 
 Alpha
   : Navigation bar
