@@ -76,7 +76,7 @@ Streaming video
 ###With thanks to:
 {: #thanks}
 * [Kerri Augenstein](http://www.kaugenstein.com/)
-* Tiffany DeMott
+* Tiffany Laine De Mott
 * [Scott Garner](http://j38.net/)
 * [Liz Heidner](http://www.lizheidner.com/)
 * [Natalia Ilyin](www.nataliailyin.net)
