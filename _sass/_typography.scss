@@ -59,7 +59,8 @@ p {
 img + p {
   font-size: .8em;
 }
-ul {
+ul,
+dl {
   list-style: none;
   padding-left: 0;
 }
@@ -76,21 +77,27 @@ ul {
   }
 }
 ol,
-dl,
+dl dl,
 ul ul {
   padding-left: 1.5em;
-  ul {
-    padding-left: 1.5em;
-  }
 }
 li {
   position: relative;
+}
+dd:before {
+  content: "»";
+  margin-left: -1em;
+  margin-right: .5em;
 }
 nav h2 {
   line-height: .5em;
 }
 footer {
   color: $grey;
+}
+hr {
+  margin-top: 4.5em;
+  margin-bottom: 4.5em;
 }
 
 /* Inline Elements */
