@@ -53,7 +53,7 @@ Streaming video
 * [Adobe Audition](https://creative.adobe.com/products/audition)
 * [Barcus Berry 3125M piezoelectric transducer microphone](http://barcusberry.com/product.cfm?ProductID=24)
 * Barcus Berry 3000A preamp
-* [Audio Technica AT2020 wide diaphragm, cardioid condenser microphone](http://www.audio-technica.com/cms/wired_mics/a0933a662b5ed0e2/)
+* [Audio Technica AT2020 wide diaphragm cardioid condenser microphone](http://www.audio-technica.com/cms/wired_mics/a0933a662b5ed0e2/)
 * [M-Audio M-Track Mk. II](http://www.m-audio.com/products/view/m-track-mkii#.VTXq9q3BzRY)
 
 ###Recorded music:
@@ -73,12 +73,17 @@ Streaming video
 * [Github Pages](https://pages.github.com/)
 * [Real Favicon Generator](http://realfavicongenerator.net/)
 
-###Internet Archive crawler
+###Internet Archive crawler:
 {: #crawler}
 
 * [nodejs](https://nodejs.org/)
 * [wkhtmltopdf](http://wkhtmltopdf.org/)
 * Get the [source code on Github &rarr;](https://github.com/Rumudiez/Web-Archive-Scraper)
+
+###Trailer:
+{: #trailer}
+
+* J.S. Bach's 6 Suites for Unaccompanied Cello
 
 ###With thanks to:
 {: #thanks}

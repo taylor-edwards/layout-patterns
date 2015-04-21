@@ -54,7 +54,13 @@ In order to be accurate in as many aspects of my animations as possible, I looke
 
 Using a slight combination of these sources to get a wider range of data, I picked out the largest average monitor size with a simple share majority around each of my five samples, with the exception of using 1920×1080 pixels for 2015’s samples; the actual most common is still 1366×768 pixels, but that is waning quickly as higher density displays become more and more popular.
 
-In efforts to find suitable audio to accompany the animations, I searched high and low for what I thought would be appropriate (and royalty-free) music. Ultimately, I both felt and was advised to record my own music. Using [a pair of mics](/sources/#recording) and a combination of [audio software](/sources/#recording), I recorded Robert Muczynski’s “[Gallery](/sources/#music)” suite for unaccompanied cello. The pieces within vary naturally, but have of an earnest and jaunty vibe that pairs well with my visual approach.
+In efforts to find suitable audio to accompany the animations, I searched high and low for what I thought would be appropriate (and royalty-free) music. Ultimately, I both felt and was advised to record my own music. Using [a pair of mics](/sources/#recording) and a combination of [audio software](/sources/#recording), I decided to record Robert Muczynski’s “[Gallery](/sources/#music)” suite for unaccompanied cello. The pieces within vary naturally, but have of an earnest and jaunty vibe that pairs well with my visual approach.
+
+[ Test animations ]
+
+Before investing too much time on theory alone, I made a series of test animations to explore different visual and animation treatments. Luckily, I found my former conclusion to convey these sites' histories in an accurate and unobtrusive way and so I set to work creating a more extensive test subject with a full audio track.
+
+Dubbed this project's “trailer,” it shows a little bit of each site I'm featuring and proves that even with more [somber music](/sources/#trailer) that the animations could be successful.
 
 ##Creating the website
 
