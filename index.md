@@ -12,47 +12,47 @@ My answer is this: functionality is mutually dependent on layout and web design 
 
 The most confirming piece of evidence supporting this is the reverse application of the sorting technique. If you group websites together by function alone (i.e. social media, news media, forum, etc), you'll notice the groupings form in the same way as if you categorized based on layout alone. My reason for not simply sorting by function, however, is that implementation and user flows are much more flexible than layout design, and tend to fluctuate significantly between even these similar websites. Staying within the base-level of layout patterns, I've been able to provide a consistent and accurate taxonomy of web design.
 
-Most websites can be grouped into the following categories (names pending):
+Most websites can be grouped into the following categories:
 {: archetypes}
 
-1. Alpha
-2. Beta
-3. Gamma
-4. Delta
-5. Epsilon
-6. Zeta
+1. Scroll
+2. Grid
+3. Legacy
+4. Threads
+5. Frame
+6. Theater
 
 These archetypes of web design can be extended by the components of each. As such:
 
-Alpha
+Scroll
   : Navigation bar
   : Navigation sidebar (usually on the left)
   : Endless feed (loads more content on scroll)
   : External sidebar (actions within do not affect the current page)
 
-Beta
+Grid
   : Navigation bar
   : Header bar
   : Content sidebars
   : Gridded content
   : Multi-column footer
 
-Gamma
+Legacy
   : Combination navigation-header
   : Single column content
   : Usually no sidebars (functionally limited)
 
-Delta
+Thread
   : Header bar
   : Navigation bar
   : Highly paginated content
 
-Epsilon
-  : Highly hierarchical, self-embedded panes of content
+Frame
+  : Highly hierarchical, embedded panes of content
   : Minimal site-level features (navigation, header, footer, etc)
   : Toolbars
 
-Zeta
+Stadium
   : Navigation bar
   : Large, central content
   : Compact sidebar navigation
