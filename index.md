@@ -15,50 +15,50 @@ The most confirming piece of evidence supporting this is the reverse application
 Most websites can be grouped into the following categories:
 {: archetypes}
 
-1. Scroll
-2. Grid
-3. Legacy
-4. Threads
-5. Frame
-6. Theater
+1. **Scroll**
+2. **Grid**
+3. **Legacy**
+4. **Thread**
+5. **Frame**
+6. **Stadium**
 
 These archetypes of web design can be extended by the components of each. As such:
 
-Mix
+1. **Mix**
   : Navigation bar
   : Navigation sidebar (usually on the left)
   : Endless feed
   : External sidebar
 
-Grid
+2. **Grid**
   : Navigation bar
   : Header bar
   : Content sidebars
   : Gridded content
   : Multi-column footer
 
-Legacy
+3. **Legacy**
   : Combination navigation-header
   : Single column content
   : Usually no sidebars (functionally limited)
 
-Thread
+4. **Thread**
   : Header bar
   : Navigation bar
   : Highly paginated content
 
-Frame
+5. **Frame**
   : Highly hierarchical, embedded panes of content
-  : Minimal site-level features (navigation, header, footer, etc)
+  : Minimal site-level features
   : Toolbars
 
-Stadium
+6. **Stadium**
   : Navigation bar
   : Large, central content
   : Compact sidebar navigation
   : External sidebar
   : Simple footer
 
-This taxonomy provides a method of categorization for future layout patterns and a simple assessment of their most likely function – which is a positive indicator of their best suited purpose. If we take sites with features matching one of the sets defined above, we can see that blogs are best suited to the Legacy layout pattern and social media networks make good use of a wide combination of components, as seen in the Mix pattern. Most importantly to my case studies, news media seem to be best fit by the Grid pattern.
+This taxonomy provides a method of categorization for future layout patterns and a simple assessment of their most likely function, which is a positive indicator of their best suited purpose. For example, if we collect a group of sites with similar components and apply one of the groupings defined above, we can see that blogs are best suited to the Legacy layout pattern and social media networks make good use of a wide combination of components, as seen in the Mix pattern. Most relevant to my case studies, news media seem to be best fit by the Grid pattern.
 
-[Dive into the case studies to learn more &rarr;](/case-studies)
+[**Dive into the case studies to learn more &rarr;**](/case-studies)

@@ -27,4 +27,4 @@ As far as creating a series of case studies goes, I found there were two discern
 
 Finally, these three websites represent significant portions of their respective businesses. This means they have always been revenue driven and each iteration on design must be an honest attempt to bolster that metric. Accessability, although a core driving component in web environments today, has always been at least a method of achieving better conversion rates and maintaining an existing user base, furthering the point of progress.
 
-[Review my processes &rarr;](/process/)
+[**Review my processes &rarr;**](/process/)

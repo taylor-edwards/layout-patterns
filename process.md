@@ -6,9 +6,9 @@ order: 3
 permalink: /process/
 ---
 
-##Research
+###Research
 
-(<a href="https://youtu.be/EHQXXXD_vWQ?list=PLs67-K8l4nrqpTrFnF5J3FfgAG0NugKY7" target="_blank">&larr; Get comfy for a long read</a>)
+(<a href="https://youtu.be/EHQXXXD_vWQ?list=PLs67-K8l4nrqpTrFnF5J3FfgAG0NugKY7" target="_blank">&larr; Get comfy</a>)
 
 My first approach to analyzing layout design was to research existing design. I decided to study how web design had evolved over the past twenty years, so I wrote a simple bot that crawled the Internet Archive’s WayBack Machine and generated sequential screenshots of any given website. Using these image sequences as individual frames, I created short stop-motion films of web history.
 
@@ -44,15 +44,13 @@ These visual updates often resulted in a new user experience through changes to 
 
 By looking at every redesign, it’s clear to see that site updates have gotten less frequent as of late. This is an indicator of the changing approach to web design; from small, incremental, public tweaks to behind-the-doors full overhauls (at least visually) with great days of unveiling. There’s much to be said about the benefits of the former method. Namely, it is likely the biggest contributor to the savviness of the average adult web browser today. Developers, designers and users alike all learned how to organize and navigate digital content together as needs and wants grew and they were able to build upon simple interaction techniques one small step at a time; a process which has now led to complex web apps without the expense of reading a tutorial to check your news feed. Users today are expected to know how the web works and are seldom offered help with complicated applications or roundabout interaction flows.
 
-If we narrow the selection down, however, we can find that there are about five major redesigning points in each of these sites' archives. I decided, to help illustrate my research, to use these samples as keyframes for a series of animations showing how layouts have changed over time.
+If we narrow the selection down, however, we can find that there are about five major redesigning points in each of these sites' archives. In order to help illustrate my research, I decided to use these samples as keyframes for a series of animations showing how layouts have changed over time.
 
-##Creating the animations
+###Creating the animations
 
-Watch the animations: [AOL](/case-studies/aol/), [MSN](/case-studies/msn/) and [Yahoo](/case-studies/yahoo/)
+Watch the animations: [AOL](/case-studies/aol/), [MSN](/case-studies/msn/) and [Yahoo](/case-studies/yahoo/).
 
-In order to be accurate in as many aspects of my animations as possible, I looked up the most common screen sizes over the past twenty years. The [Nielsen Norman Group](/sources/#nngroup) was an immediate hit and gave a good generalization of the upward trend in screen dimensions. Among [other agreeing sources](/sources/#w3schools) was [Statcounter](/sources/#statcounter), showing more detailed statistics from 2009 onward.
-
-Using a slight combination of these sources to get a wider range of data, I picked out the largest average monitor size with a simple share majority around each of my five samples, with the exception of using 1920×1080 pixels for 2015’s samples; the actual most common is still 1366×768 pixels, but that is waning quickly as higher density displays become more and more popular.
+In order to be accurate in as many aspects of my animations as possible, I looked up the most common screen sizes over the past twenty years. A survey by the [Nielsen Norman Group](/sources/#nngroup) was an immediate resource and gave a good generalization of the upward trend in screen dimensions. Among [other agreeing sources](/sources/#w3schools) was [Statcounter](/sources/#statcounter), showing more detailed statistics from 2009 onward. Using a slight combination of these sources to get a wider range of data, I picked out the largest prevalent monitor size around each of my five samples.
 
 In efforts to find suitable audio to accompany the animations, I searched high and low for what I thought would be appropriate (and royalty-free) music. Ultimately, I both felt and was advised to record my own music. Using [a pair of mics](/sources/#recording) and a combination of [audio software](/sources/#recording), I decided to record Robert Muczynski’s “[Gallery](/sources/#music)” suite for unaccompanied cello. The pieces within vary naturally, but have of an earnest and jaunty vibe that pairs well with my visual approach.
 
@@ -62,7 +60,7 @@ Before investing too much time on theory alone, I made a series of test animatio
 
 Dubbed this project's “trailer,” it shows a little bit of each site I'm featuring and proves that even with more [somber music](/sources/#trailer) that the animations could be successful.
 
-##Creating the website
+###Creating the website
 
 I created this website [from scratch](/sources/#website) in order to present my project in its native medium and most directly to its audience. This website uses modern (2015) web standards and was developed for equally modern browsers.
 
@@ -72,8 +70,8 @@ Adding writing first, then images and finally video, I made tweaks along the way
 
 View the [source code on Github &rarr;](https://github.com/Rumudiez/Layout-Patterns)
 
-##On Continuation and Usage
+###On Continuation and Usage
 
 I believe my definitions of [layout patterns](/#archetypes) can be further abstracted into a more flexible and less content-based system of components. Hopefully layout patterns can be utilized in design practice to provide safer methods of experimentation and to help beginners understand just how multifaceted web design can be.
 
-[View more about my sources &rarr;](/sources/)
+[**View more about my sources &rarr;**](/sources/)

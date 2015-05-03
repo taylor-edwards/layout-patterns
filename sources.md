@@ -8,13 +8,13 @@ permalink: /sources/
 
 A Visual Analysis of Layout Patterns would not have been possible without the records of the Internet Archive's WayBack Machine. Their collections and open API enabled me to collect and study over twenty years of web design.
 
-###Referenced sites:
+###Referenced sites
 
 * [www.nngroup.com](http://www.nngroup.com/articles/computer-screens-getting-bigger/){: #nngroup}
 * [gs.statcounter.com](http://gs.statcounter.com/#resolution-US-monthly-200903-201504){: #statcounter}
 * [www.w3schools.com](http://www.w3schools.com/browsers/browsers_display.asp){: #w3schools}
 
-###Studied sites:
+###Studied sites
 
 News media
 : [www.aol.com](http://www.aol.com)
@@ -46,59 +46,90 @@ Streaming video
 : [www.ustream.tv](http://www.ustream.tv/)
 : [www.youtube.com](http://www.youtube.com/)
 
-###Recording software and equipment:
+###Design
+{: #design }
+
+[FF Enzo Web](https://typekit.com/fonts/ff-enzo-web)
+: 700 bold, 50px/60px
+: 300 light, 40px/45px
+: 700 bold, 19px/30px
+
+[FF Tisa Web Pro](https://typekit.com/fonts/ff-tisa-web-pro)
+: 400 regular, 20px/30px
+
+Color palette, based on the “classic” quadratic color schemes of many tech companies
+: <div class="box--red"></div><div class="box--darkred"></div> Red-orange #f56 and #c45
+: <div class="box--blue"></div><div class="box--darkblue"></div> Blue #056 and #045
+: <div class="box--green"></div><div class="box--darkgreen"></div> Green #5a6 and #485
+: <div class="box--yellow"></div><div class="box"></div> Yellow #fd6
+
+###Recording software and equipment
 {: #recording}
 
 * [Ableton Live 9](https://www.ableton.com/en/live/new-in-9/)
 * [Adobe Audition](https://creative.adobe.com/products/audition)
-* [Barcus Berry 3125M piezoelectric transducer microphone](http://barcusberry.com/product.cfm?ProductID=24)
+* [Barcus Berry 3125M](http://barcusberry.com/product.cfm?ProductID=24) piezoelectric transducer microphone
 * Barcus Berry 3000A preamp
-* [Audio Technica AT2020 wide diaphragm cardioid condenser microphone](http://www.audio-technica.com/cms/wired_mics/a0933a662b5ed0e2/)
-* [M-Audio M-Track Mk. II](http://www.m-audio.com/products/view/m-track-mkii#.VTXq9q3BzRY)
+* [Audio Technica AT2020](http://www.audio-technica.com/cms/wired_mics/a0933a662b5ed0e2/) wide diaphragm cardioid condenser microphone
+* [M-Audio M-Track Mk. II](http://www.m-audio.com/products/view/m-track-mkii#.VTXq9q3BzRY) audio interface
 
-###Recorded music:
+###Instrument
+
+* Rudolph Fiedler ’06 cello
+* D'Addario Kaplan medium tension strings
+* Roderich Paesold cello bow
+
+###Recorded music
 {: #music}
 
-* Robert Muczynski's suite for unaccompanied cello, “[Gallery](http://www.sheetmusicplus.com/title/gallery-suite-sheet-music/3183263)”
+Robert Muczynski's suite for unaccompanied cello, “[Gallery](http://www.sheetmusicplus.com/title/gallery-suite-sheet-music/3183263)”
+: “Noonday heat”
+: “Shanty”
+: “Black Iron”
 
-###Website building and testing:
+Listen to, download or remix the tracks using [Soundcloud &rarr;](https://soundcloud.com/rumudiez/sets/muczynskis-gallery-suite-for-unaccompanied-cello)
+
+###Website building and testing
 {: #website}
 
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html)
 * [Sublime Text 2](http://www.sublimetext.com/2)
-* HTML5
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [SCSS](http://sass-lang.com/)
 * [Adobe Typekit](https://typekit.com/)
-* [Jekyll](http://jekyllrb.com/)
+* [Jekyll](http://jekyllrb.com/) static CMS
 * [Github Pages](https://pages.github.com/)
 * [Real Favicon Generator](http://realfavicongenerator.net/)
 
-###Internet Archive crawler:
+* View the [source code on Github &rarr;](https://github.com/Rumudiez/Layout-Patterns)
+
+###Internet Archive crawler
 {: #crawler}
 
 * [nodejs](https://nodejs.org/)
 * [wkhtmltopdf](http://wkhtmltopdf.org/)
+
 * Get the [source code on Github &rarr;](https://github.com/Rumudiez/Web-Archive-Scraper)
 
-###Trailer:
+###Trailer
 {: #trailer}
 
 * J.S. Bach's 6 Suites for Unaccompanied Cello
 
-###With thanks to:
+###With thanks to
 {: #thanks}
-* [Kerri Augenstein &rarr;](http://www.kaugenstein.com/)
+* [Kerri Augenstein](http://www.kaugenstein.com/)
 * Tiffany Laine De Mott
-* [Scott Garner &rarr;](http://j38.net/)
-* [Liz Heidner &rarr;](http://www.lizheidner.com/)
-* [Natalia Ilyin &rarr;](http://www.nataliailyin.net)
+* [Scott Garner](http://j38.net/)
+* [Liz Heidner](http://www.lizheidner.com/)
+* [Natalia Ilyin](http://www.nataliailyin.net)
 
 ---
 
 This project is entirely open source and derivative work is encouraged. You can fork this website's [source code on Github](https://github.com/Rumudiez/Layout-Patterns).
 
-####Don't forget to let me know what you think!
+#####Don't forget to let me know what you think!
 {: #contact}
 
-* [@Rumudiez](https://twitter.com/rumudiez)
-* [me@tayloredwards.net](mailto:me@tayloredwards.net)
+* [**@Rumudiez**](https://twitter.com/rumudiez)
+* [**me@tayloredwards.net**](mailto:me@tayloredwards.net)
