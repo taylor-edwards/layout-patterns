@@ -25,9 +25,10 @@ dl {
 h1,
 h2,
 h3,
-h4 {
-  line-height: 1.25;
-  margin: .25em 0;
+h4,
+h5 {
+  line-height: 1.2;
+  margin: .3em 0;
 }
 h1 {
   color: $blue;
@@ -41,17 +42,30 @@ h2 {
   font-family: $sans;
   font-size: 2em;
   font-weight: 300;
+  line-height: 1.125;
 }
 h3 {
+  font-family: $sans;
+  font-size: .95em;
+  font-weight: 700;
+  letter-spacing: .05em;
+  line-height: 1.579;
+  margin: .2375em 0;
+  text-transform: uppercase;
+}
+h4,
+h5 {
+  line-height: 1.5;
+}
+h4 {
   font-size: 1em;
   font-weight: 400;
   letter-spacing: .05em;
   text-transform: uppercase;
 }
-h4 {
-  font-family: $sans;
-  font-size: .9em;
-  font-weight: 700;
+h5 {
+  font-size: 1em;
+  font-weight: 400;
 }
 p {
 
@@ -81,7 +95,9 @@ dl dl,
 ul ul {
   padding-left: 1.5em;
 }
-li {
+li,
+dt,
+dd {
   position: relative;
 }
 dd:before {
@@ -97,9 +113,13 @@ footer {
 }
 hr {
   border: none;
-  border-bottom: 2px solid $blue;
-  margin-top: 4.5em;
-  margin-bottom: 4.5em;
+  // border-bottom: 2px solid $blue;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  text-align: center;
+  &:after {
+    content: "* * *";
+  }
 }
 
 /* Inline Elements */
@@ -107,6 +127,7 @@ a,
 a:link {
   color: $dark-red;
   text-decoration: none;
+  @strong;
 }
 a:hover {
   color: $red !important;
@@ -124,6 +145,7 @@ em {
 }
 strong {
   font-family: $sans;
+  font-size: .95em;
   font-weight: 700;
 }
 
