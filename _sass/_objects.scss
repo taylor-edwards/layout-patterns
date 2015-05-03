@@ -23,3 +23,34 @@ nav {
     margin-top: .33em !important;
   }
 }
+div[class^="box"] {
+  display: inline-block;
+  height: 1.25em;
+  vertical-align: middle;
+  width: 1.25em;
+  & ~ p {
+    display: inline;
+    margin: 0;
+  }
+}
+.box--red {
+  background: $red;
+}
+.box--blue {
+  background: $blue;
+}
+.box--green {
+  background: $green;
+}
+.box--yellow {
+  background: $yellow;
+}
+.box--darkred {
+  background: $dark-red;
+}
+.box--darkblue {
+  background: $dark-blue;
+}
+.box--darkgreen {
+  background: $dark-green;
+}
