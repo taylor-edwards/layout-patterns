@@ -1,0 +1,6 @@
+<ul>
+  <li><h3>Case Studies</h3></li>
+{% for page in site.case-studies %}
+  <li><a href="{{ page.url }}">{{ page.title | remove:"Case Study – " }}</a></li>
+{% endfor %}
+</ul>
