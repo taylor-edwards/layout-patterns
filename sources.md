@@ -57,11 +57,27 @@ Streaming video
 [FF Tisa Web Pro](https://typekit.com/fonts/ff-tisa-web-pro)
 : 400 regular, 20px/30px
 
-Color palette, based on the “classic” quadratic color schemes of many tech companies
+Color palette, based on the typical quadratic color schemes of many tech companies with overall brighter tones for a trendy “web” feel
 : <div class="box--red"></div><div class="box--darkred"></div> Red-orange #f56 and #c45
 : <div class="box--blue"></div><div class="box--darkblue"></div> Blue #056 and #045
 : <div class="box--green"></div><div class="box--darkgreen"></div> Green #5a6 and #485
 : <div class="box--yellow"></div><div class="box"></div> Yellow #fd6
+
+###Recorded music
+{: #music}
+
+Robert Muczynski's suite for unaccompanied cello, “[Gallery](http://www.sheetmusicplus.com/title/gallery-suite-sheet-music/3183263)” (1966)
+: “Noonday heat”
+: “Shanty”
+: “Black Iron”
+
+Listen to, download or remix the tracks using [SoundCloud &rarr;](https://soundcloud.com/rumudiez/sets/muczynskis-gallery-suite-for-unaccompanied-cello)
+
+###Instrument
+
+* Rudolph Fiedler ’06 cello
+* D'Addario Kaplan medium tension strings
+* Roderich Paesold cello bow
 
 ###Recording software and equipment
 {: #recording}
@@ -70,24 +86,8 @@ Color palette, based on the “classic” quadratic color schemes of many tech c
 * [Adobe Audition](https://creative.adobe.com/products/audition)
 * [Barcus Berry 3125M](http://barcusberry.com/product.cfm?ProductID=24) piezoelectric transducer microphone
 * Barcus Berry 3000A preamp
-* [Audio Technica AT2020](http://www.audio-technica.com/cms/wired_mics/a0933a662b5ed0e2/) wide diaphragm cardioid condenser microphone
+* [Audio-Technica AT2020](http://www.audio-technica.com/cms/wired_mics/a0933a662b5ed0e2/) wide diaphragm cardioid condenser microphone
 * [M-Audio M-Track Mk. II](http://www.m-audio.com/products/view/m-track-mkii#.VTXq9q3BzRY) audio interface
-
-###Instrument
-
-* Rudolph Fiedler ’06 cello
-* D'Addario Kaplan medium tension strings
-* Roderich Paesold cello bow
-
-###Recorded music
-{: #music}
-
-Robert Muczynski's suite for unaccompanied cello, “[Gallery](http://www.sheetmusicplus.com/title/gallery-suite-sheet-music/3183263)”
-: “Noonday heat”
-: “Shanty”
-: “Black Iron”
-
-Listen to, download or remix the tracks using [Soundcloud &rarr;](https://soundcloud.com/rumudiez/sets/muczynskis-gallery-suite-for-unaccompanied-cello)
 
 ###Website building and testing
 {: #website}
@@ -114,19 +114,11 @@ Listen to, download or remix the tracks using [Soundcloud &rarr;](https://soundc
 ###Trailer
 {: #trailer}
 
-* J.S. Bach's 6 Suites for Unaccompanied Cello
-
-###With thanks to
-{: #thanks}
-* [Kerri Augenstein](http://www.kaugenstein.com/)
-* Tiffany Laine De Mott
-* [Scott Garner](http://j38.net/)
-* [Liz Heidner](http://www.lizheidner.com/)
-* [Natalia Ilyin](http://www.nataliailyin.net)
+Audio was excerpted from [Mischa Maisky's](https://www.youtube.com/watch?v=5kwAAES6QEs) recording of “Menuet” from J.S. Bach's Suite for Unaccompanied Cello No. 2. The recording was used in an academic setting for noncommercial work. This piece is not included with the open license of the rest of this project.
 
 ---
 
-This project is entirely open source and derivative work is encouraged. You can fork this website's [source code on Github](https://github.com/Rumudiez/Layout-Patterns).
+This project is entirely open source except from where otherwise stated and derivative work is encouraged. You can download and edit the [animations](https://vimeo.com/album/3382650){:title="Case study animations on Vimeo"} from [Vimeo](https://vimeo.com/rumudiez/){:title="Taylor Edwards on Vimeo"}, fork this [website's](https://github.com/Rumudiez/Layout-Patterns){:title="layoutpatterns.com source code on Github"} and the [internet archive crawler's](https://github.com/Rumudiez/Web-Archive-Scraper){:title="Internet archive crawler source code on Github"} source code from [my Github profile](https://github.com/Rumudiez/){:title="Taylor Edwards on Github"} or download and remix the [recordings](https://soundcloud.com/rumudiez/sets/muczynskis-gallery-suite-for-unaccompanied-cello){:title="Audio recordings on SoundCloud"} on [SoundCloud](https://soundcloud.com/rumudiez/){:title="Taylor Edwards on SoundCloud"}.
 
 #####Don't forget to let me know what you think!
 {: #contact}

@@ -8,16 +8,28 @@ permalink: /case-studies/
 
 These case studies focus on the websites AOL, MSN and Yahoo. They heavily reference the evolution of web design to evaluate current design trends, and as such, the primary visual reference shown in each case study is an animation illustrating five major redesigns from each of the chosen websites over the past two decades. These animations can be directly compared and provide an accurate representation of each given snapshot.
 
-Take a look at the case studies or keep reading:
+###The case studies:
 
-* [ AOL Title Card ]
-* [AOL &rarr;](/case-studies/aol/)
+<figure id="yahoo">
+  <div class="video--frame">
+    <iframe src="https://player.vimeo.com/video/127014219?color=ff5566&portrait=0" width="576" height="323" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+  <figcaption>Yahoo</figcaption>
+</figure>
 
-* [ MSN Title Card ]
-* [MSN &rarr;](/case-studies/msn/)
+<figure id="msn">
+  <div class="video--frame">
+    <iframe src="https://player.vimeo.com/video/127014221?color=ff5566&portrait=0" width="576" height="323" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+  <figcaption>MSN</figcaption>
+</figure>
 
-* [ Yahoo Title Card ]
-* [Yahoo &rarr;](/case-studies/yahoo/)
+<figure id="aol">
+  <div class="video--frame">
+    <iframe src="https://player.vimeo.com/video/127014222?color=ff5566&portrait=0" width="576" height="323" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+  <figcaption>AOL</figcaption>
+</figure>
 
 ##Why choose AOL, MSN and Yahoo?
 

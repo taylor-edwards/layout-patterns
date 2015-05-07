@@ -12,9 +12,14 @@ permalink: /process/
 
 My first approach to analyzing layout design was to research existing design. I decided to study how web design had evolved over the past twenty years, so I wrote a simple bot that crawled the Internet Archive’s WayBack Machine and generated sequential screenshots of any given website. Using these image sequences as individual frames, I created short stop-motion films of web history.
 
-Unfortunately, since older browsers varied significantly from each other, many web developers resorted to only supporting a single browser and used non-standard, vendor-specific code. This hiccup in web development meant that many of the archive’s snapshots from the early ’00s could not be rendered correctly in a 2014 version of webkit.
+Unfortunately, since older browsers varied significantly from each other, many web developers resorted to only supporting a single browser and used non-standard, vendor-specific code. This hiccup in web development meant that many of the archive’s snapshots from the early 2000s could not be rendered correctly in a 2014 version of webkit.
 
-[ Stop motion films ]
+<figure>
+  <div class="video--frame">
+    <iframe src="https://player.vimeo.com/video/126769524?color=ff5566" width="576" height="323" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+  <figcaption>WayBack Machine sequences</figcaption>
+</figure>
 
 Explore this way on your own – [get the bot on Github &rarr;](https://github.com/Rumudiez/Web-Archive-Scraper)
 
@@ -32,9 +37,10 @@ I found three sites each with close to twenty years’ worth of archives in the 
 
 AOL is well known for its past as an internet service provider as well as its now-infamous browser (the remnants of Netscape, too). MSN has been an international news source and over time has gained and lost integration with various other Microsoft products, as well as being the default homepage in Internet Explorer, and finally Yahoo, with its early search engine and over half-billion monthly users today, is another internationally known brand.
 
-[ AOL, MSN, Yahoo screenshots ]
-
-The pages of AOL, MSN and Yahoo at their earliest available snapshots on the WayBack Machine
+<figure>
+  <img src="/images/first-archives.jpg">
+  <figcaption>Yahoo, MSN and AOL in 1996 on the WayBack Machine</figcaption>
+</figure>
 
 I started investigating these news media through the identification of site redesigns. By isolating these I could pin down the most active periods of web design and track specific points across other factors, such as the most common screen dimensions and wider gamut color support at the time.
 
@@ -48,7 +54,7 @@ If we narrow the selection down, however, we can find that there are about five 
 
 ###Creating the animations
 
-Watch the animations: [AOL](/case-studies/aol/), [MSN](/case-studies/msn/) and [Yahoo](/case-studies/yahoo/).
+Watch the animations: [AOL](/case-studies/#aol), [MSN](/case-studies/#msn) and [Yahoo](/case-studies/#yahoo).
 
 In order to be accurate in as many aspects of my animations as possible, I looked up the most common screen sizes over the past twenty years. A survey by the [Nielsen Norman Group](/sources/#nngroup) was an immediate resource and gave a good generalization of the upward trend in screen dimensions. Among [other agreeing sources](/sources/#w3schools) was [Statcounter](/sources/#statcounter), showing more detailed statistics from 2009 onward. Using a slight combination of these sources to get a wider range of data, I picked out the largest prevalent monitor size around each of my five samples.
 
@@ -58,7 +64,32 @@ In efforts to find suitable audio to accompany the animations, I searched high a
 
 Before investing too much time on theory alone, I made a series of test animations to explore different visual and animation treatments. Luckily, I found my former conclusion to convey these sites' histories in an accurate and unobtrusive way and so I set to work creating a more extensive test subject with a full audio track.
 
+<figure id="trailer">
+  <div class="video--frame">
+    <iframe src="https://player.vimeo.com/video/118441371?color=ff5566&portrait=0" width="576" height="323" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+  <figcaption>Layout Patterns – Trailer</figcaption>
+</figure>
+
 Dubbed this project's “trailer,” it shows a little bit of each site I'm featuring and proves that even with more [somber music](/sources/#trailer) that the animations could be successful.
+
+###Recording the music
+
+After creating the trailer, I sought after livelier and possibly more relevant music to animate my case studies to. Among those considered were bands like Air, Ratatat, Wax Tailor, RJD2, and Tycho. Although some tracks I reviewed seemed promising, I couldn't find any firm reason that these would produce a good, valid choice.
+
+Looking back to the trailer, I realized there were more flexible and diverse opportunities within the narrower scope of classical. In the end, I came across a Polish-American's jaunty suite for cello which seemed to fill in where my trailer had been lacking, without the heavy burden of literal reference (or rights and royalties) posed by using more contemporary music.
+
+I chose to record my own performances of several pieces from [Robert Muczynski's 1966 “Gallery”](/sources/#music) suite for unaccompanied cello. I used a wide diaphragm condenser microphone as a room mic and a piezoelectric transducer to directly capture the fuller tones of my cello. Both microphones were fed through an external audio interface panned to stereo and through that to my digital audio workstation.
+
+View all of [my gear here &rarr;](/sources/#recording)
+
+Due to the time constraints of this project and delays in acquiring certain gear, I only had one week to rehearse and two weeks to further rehearse, record and master all of my audio in order to make my animation deadlines. Under this tight restriction, I was unable to secure an acoustically designed hall for recording and had to skimp on getting the amp I wanted to use with the contact mic. Making do with the rest of my resources, I set up a home studio and got practicing as soon as the sheet music hit my doorstop.
+
+I recorded in a large, open room with my personal cello. After significant testing to assure the absence of any standing-wave producing walls or objects, I tested the room's reverberation aurally by listening to a fixed recording from various points in the room. Based on my observations, I then recorded samples from where I thought it would be best to position the room mic and later used the cleanest location to record the pieces. I used Adobe Audition to record and mixed the final tracks in Ableton Live 9.
+
+<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/103664578&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
+
+In mastering the recordings, I wanted to preserve the clean staccato feel of the pieces “Shanty” and “Black Iron” without losing the soft, sustained slurs of “Noonday Heat.” I ran each recording's room mic through an initial compressor to match the volume level of the contact mic, which in turn was fed into a digital amp tuned to produce a bright and natural sound. The contact mic also primarily fed a reverb effect return track to softly fill in frequency gaps where my room didn't reverberate effectively. A second return track was used to crossfade the left and right channels to produce a more equally distributed input for the master track, which is where I lightly equalized frequency levels before compressing and limiting the audio to produce broadcast-ready tracks.
 
 ###Creating the website
 
@@ -69,9 +100,5 @@ Before starting on the visual design, I inventoried my content and made a hierar
 Adding writing first, then images and finally video, I made tweaks along the way to support and unify various elements like definition lists and deeper heading levels. The site is now hosted by Github Pages directly from a branch in its remote repository.
 
 View the [source code on Github &rarr;](https://github.com/Rumudiez/Layout-Patterns)
-
-###On Continuation and Usage
-
-I believe my definitions of [layout patterns](/#archetypes) can be further abstracted into a more flexible and less content-based system of components. Hopefully layout patterns can be utilized in design practice to provide safer methods of experimentation and to help beginners understand just how multifaceted web design can be.
 
 [**View more about my sources &rarr;**](/sources/)

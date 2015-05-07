@@ -3,7 +3,10 @@ title: Layout Patterns
 author: Taylor Edwards
 authorsite: www.tayloredwards.net
 email: me@tayloredwards.net
-description: Layouts form the foundation of design on the web. They can be considered as patterns and used as a method of both evaluation and exploration.
+description: >
+             Layouts form the foundation of design on the web. 
+             This project organizes them as patterns and provides
+             vocabulary to discuss them.
 baseurl: ""
 url: "http://layoutpatterns.com"
 twitter_username: rumudiez
