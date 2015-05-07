@@ -28,7 +28,7 @@ h3,
 h4,
 h5 {
   line-height: 1.2;
-  margin: .3em 0;
+  margin: 1.5em 0 .3em;
 }
 h1 {
   color: $blue;
@@ -50,7 +50,7 @@ h3 {
   font-weight: 700;
   letter-spacing: .05em;
   line-height: 1.579;
-  margin: .2375em 0;
+  margin: 3.363em 0 .2375em;
   text-transform: uppercase;
 }
 h4,
@@ -67,11 +67,25 @@ h5 {
   font-size: 1em;
   font-weight: 400;
 }
-p {
-
+nav h2,
+nav h4 {
+  margin: .3em 0;
 }
-img + p {
-  font-size: .8em;
+p {
+  max-width: 30em;
+}
+figcaption {
+  color: $grey;
+  font-family: $sans;
+  font-size: .75em;
+  font-weight: bold;
+  letter-spacing: .02em;
+  line-height: 2;
+  margin-top: .5em;
+  text-align: right;
+}
+iframe + figcaption {
+  margin-top: -1.5em;
 }
 ul,
 dl {
@@ -91,14 +105,38 @@ ul {
   }
 }
 ol,
-dl dl,
-ul ul {
-  padding-left: 1.5em;
+dl,
+ul {
+  ol, dl, ul {
+    padding-left: 1.5em;
+  }
 }
 li,
 dt,
 dd {
   position: relative;
+}
+dd,
+li {
+  margin: 0;
+  // padding-left: 1.5em;
+}
+dd {
+  padding-left: 1.5em;
+}
+ul li {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+dt:not(:first-child) {
+  margin-top: .5em;
+  padding-top: .5em;
+  &:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    top: 0;
+  }
 }
 dd:before {
   content: "»";
