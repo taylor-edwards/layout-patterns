@@ -8,8 +8,6 @@ permalink: /process/
 
 ###Research
 
-(<a href="https://youtu.be/EHQXXXD_vWQ?list=PLs67-K8l4nrqpTrFnF5J3FfgAG0NugKY7" target="_blank">&larr; Get comfy</a>)
-
 My first approach to analyzing layout design was to research existing design. I decided to study how web design had evolved over the past twenty years, so I wrote a simple bot that crawled the Internet Archive’s WayBack Machine and generated sequential screenshots of any given website. Using these image sequences as individual frames, I created short stop-motion films of web history.
 
 Unfortunately, since older browsers varied significantly from each other, many web developers resorted to only supporting a single browser and used non-standard, vendor-specific code. This hiccup in web development meant that many of the archive’s snapshots from the early 2000s could not be rendered correctly in a 2014 version of webkit.
@@ -27,8 +25,6 @@ These films are intriguing. They are representative of so many things: of screen
 
 In order to see these sites’ layouts in a broader, brighter light I needed to simplify the image sequences. Referencing low fidelity wireframes, I outlined several screenshots with simple shapes and lines to test readability. Going from the minimum up, I took note that block-level shapes weren’t descriptive enough to determine the functionality of a site, but adding too many elements that represented more ornamentation than content brought me back to the previous issue of density. I ultimately decided to fill in all advertising spaces, large images and certain interactable elements with solid colors and to only show lines representing text as headlines, navigation, or similarly emphasized content.
 
-Exploring fidelity through reductive illustrations
-
 Now that I had a consistent method to discern structural basics from finished products I could start looking more deeply into specific samples. I drew upon my stop-motion films to look for sites across a theme and with large and generally usable archives. It was important that the sites I chose be similar to each other so that I would later be able to make cross-sectional examinations and determine trends reliably.
 
 I found three sites each with close to twenty years’ worth of archives in the WayBack Machine and all in the same field. It is also noteworthy that AOL, MSN and Yahoo have been heavily invested in over that period of time, ensuring that each update to the site would have been an honest attempt at driving usability and ultimately revenue. The final driving point to choose these three was their prominence in web history. 
@@ -41,8 +37,6 @@ AOL is well known for its past as an internet service provider as well as its no
 </figure>
 
 I started investigating these news media through the identification of site redesigns. By isolating these I could pin down the most active periods of web design and track specific points across other factors, such as the most common screen dimensions and wider gamut color support at the time.
-
-These visual updates often resulted in a new user experience through changes to interaction patterns
 
 By looking at every redesign, it’s clear to see that site updates have gotten less frequent as of late. This is an indicator of the changing approach to web design; from small, incremental, public tweaks to behind-the-doors full overhauls (at least visually) with great days of unveiling. There’s much to be said about the benefits of the former method. Namely, it is likely the biggest contributor to the savviness of the average adult web user today. Developers, designers and users alike all learned how to organize and navigate digital content together as needs and wants grew and they were able to build upon simple interaction techniques one small step at a time; a process which has now led to complex web apps without the expense of reading a tutorial to check your news feed. Users today are expected to know how the web works and are seldom offered help with complicated applications or roundabout interaction flows.
 
