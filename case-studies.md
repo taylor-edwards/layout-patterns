@@ -8,7 +8,7 @@ permalink: /case-studies/
 
 These case studies focus on the websites AOL, MSN and Yahoo. They heavily reference the evolution of web design to evaluate current design trends, and as such, the primary visual reference shown in each case study is an animation illustrating five major redesigns from each of the chosen websites over the past two decades. These animations can be directly compared and provide an accurate representation of each given snapshot.
 
-###The case studies:
+###The case studies
 
 <figure id="yahoo">
   <div class="video--frame">
