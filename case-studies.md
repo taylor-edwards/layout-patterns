@@ -37,6 +37,6 @@ As stated above, I needed sites with a certain amount of history to have enough 
 
 As far as creating a series of case studies goes, I found there were two discerning paths I could explore. The first was to sample websites of a specific genre and evaluate their evolutions. The other path was to take a larger sample of websites and compare their structures from a significantly older generation of web design to their current ones. I chose to remain in the same vein as some of my previous research because it provided a better basis for competitor analysis and therefore trend discovery. AOL, MSN and Yahoo fit this requirement perfectly.
 
-Finally, these three websites represent significant portions of their respective businesses. This means they have always been revenue driven and each iteration on design must be an honest attempt to bolster that metric. Accessability, although a core driving component in web environments today, has always been at least a method of achieving better conversion rates and maintaining an existing user base, furthering the point of progress.
+Finally, these three websites represent significant portions of their respective businesses. This means they have always been revenue driven and each iteration on design must be an honest attempt to bolster that metric. Accessibility, although a core driving component in web environments today, has always been at least a method of achieving better conversion rates and maintaining an existing user base, furthering the point of progress.
 
 [**Review my processes &rarr;**](/process/)
