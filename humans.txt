@@ -1,13 +1,15 @@
 /* TEAM */
-Designer, Developer: Taylor Edwards
-Site:                www.tayloredwards.net
-Twitter:             @Rumudiez
-Location:            Seattle, Washington
+Designer, Developer, Researcher: Taylor Edwards
+Site:                            www.tayloredwards.net
+Twitter:                         @Rumudiez
+Location:                        Seattle, Washington
 
 /* THANKS */
-Natalia Ilyin: www.nataliailyin.net
-Tiffany DeMott
+Kerri Augenstein: http://www.kaugenstein.com/
+Tiffany Laine De Mott
 Scott Garner: http://j38.net/
+Liz Heidner: http://www.lizheidner.com/
+Natalia Ilyin: www.nataliailyin.net
                             
 /* SITE */    
 Last update: 2015/05/01

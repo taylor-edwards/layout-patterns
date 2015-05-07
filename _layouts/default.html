@@ -12,14 +12,7 @@
       </header>
       <div class="container">
         <article class="content">{{ content }}</article>
-        <aside class="sidebar">
-          <ul>
-            <li><h3>Case Studies</h3></li>
-          {% for page in site.case-studies %}
-            <li><h4><a href="{{ page.url }}">{{ page.title | remove:"Case Study – " }}</a></h4></li>
-          {% endfor %}
-          </ul>
-        </aside>
+        <!-- <aside class="sidebar">{% include sidebar.html %}</aside> -->
       </div>
     </main>
     {% include footer.html %}

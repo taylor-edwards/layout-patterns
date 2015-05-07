@@ -25,9 +25,10 @@ dl {
 h1,
 h2,
 h3,
-h4 {
-  line-height: 1.25;
-  margin: .25em 0;
+h4,
+h5 {
+  line-height: 1.2;
+  margin: 1.5em 0 .3em;
 }
 h1 {
   color: $blue;
@@ -41,25 +42,53 @@ h2 {
   font-family: $sans;
   font-size: 2em;
   font-weight: 300;
+  line-height: 1.125;
 }
 h3 {
+  font-family: $sans;
+  font-size: .95em;
+  font-weight: 700;
+  letter-spacing: .05em;
+  line-height: 1.579;
+  margin: 3.363em 0 .2375em;
+  text-transform: uppercase;
+}
+h4,
+h5 {
+  line-height: 1.5;
+}
+h4 {
   font-size: 1em;
   font-weight: 400;
   letter-spacing: .05em;
   text-transform: uppercase;
 }
-h4 {
-  font-family: $sans;
-  font-size: .9em;
-  font-weight: 700;
+h5 {
+  font-size: 1em;
+  font-weight: 400;
+}
+nav h2,
+nav h4 {
+  margin: .3em 0;
 }
 p {
-
+  max-width: 30em;
 }
-img + p {
-  font-size: .8em;
+figcaption {
+  color: $grey;
+  font-family: $sans;
+  font-size: .75em;
+  font-weight: bold;
+  letter-spacing: .02em;
+  line-height: 2;
+  margin-top: .5em;
+  text-align: right;
 }
-ul {
+iframe + figcaption {
+  margin-top: -1.5em;
+}
+ul,
+dl {
   list-style: none;
   padding-left: 0;
 }
@@ -77,14 +106,42 @@ ul {
 }
 ol,
 dl,
-ul ul {
-  padding-left: 1.5em;
-  ul {
+ul {
+  ol, dl, ul {
     padding-left: 1.5em;
   }
 }
-li {
+li,
+dt,
+dd {
   position: relative;
+}
+dd,
+li {
+  margin: 0;
+  // padding-left: 1.5em;
+}
+dd {
+  padding-left: 1.5em;
+}
+ul li {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+dt:not(:first-child) {
+  margin-top: .5em;
+  padding-top: .5em;
+  &:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    top: 0;
+  }
+}
+dd:before {
+  content: "»";
+  margin-left: -1em;
+  margin-right: .5em;
 }
 nav h2 {
   line-height: .5em;
@@ -92,12 +149,23 @@ nav h2 {
 footer {
   color: $grey;
 }
+hr {
+  border: none;
+  // border-bottom: 2px solid $blue;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  text-align: center;
+  &:after {
+    content: "* * *";
+  }
+}
 
 /* Inline Elements */
 a,
 a:link {
   color: $dark-red;
   text-decoration: none;
+  @strong;
 }
 a:hover {
   color: $red !important;
@@ -115,6 +183,7 @@ em {
 }
 strong {
   font-family: $sans;
+  font-size: .95em;
   font-weight: 700;
 }
 
