@@ -13,51 +13,90 @@ Functionality is mutually dependent on layout and web design consists almost sol
 The most confirming piece of evidence supporting this is the reverse application of the sorting technique. If you group websites together by function alone (i.e. social media, news media, forum, etc), you'll notice the groupings form in the same way as if you categorized based on layout alone. My reason for not simply sorting by function, however, is that implementation and user flows are much more flexible than layout design, and tend to fluctuate significantly between even these similar websites. Staying within the base-level of layout patterns, I've been able to provide a consistent and accurate taxonomy of web design.
 
 Most websites can be grouped into the following categories:
-{: archetypes}
+{: #archetypes}
+<figure>
+  <div class="table--wrapper">
+    <table>
+      <thead>
+        <tr>
+          <th><h3>Layout Pattern</h3></th>
+          <th><h3>Use Cases</h3></th>
+          <th><h3>Examples</h3></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><img src="/images/bulletin.png" title="Bulletin Pattern">Bulletin</td>
+          <td>Non-chronological mulitmedia content</td>
+          <td>News (legacy): AOL, Yahoo</td>
+        </tr>
+        <tr>
+          <td><img src="/images/feed.png" title="Feed Pattern">Feed</td>
+          <td>Chronological multimedia content</td>
+          <td>Social Media: Facebook, Twitter, Tumblr</td>
+        </tr>
+        <tr>
+          <td><img src="/images/frame.png" title="Frame Pattern">Frame</td>
+          <td>Interactive applications and complex interfaces</td>
+          <td>Email: Gmail, Outlook<br>Apps: Wordpress (back-end), Expression Engine (back-end)</td>
+        </tr>
+        <tr>
+          <td><img src="/images/stadium.png" title="Stadium Pattern">Stadium</td>
+          <td>Independent content</td>
+          <td>Streaming Video: Youtube, Vimeo, Twitch<br>Photography: Flickr</td>
+        </tr>
+        <tr>
+          <td><img src="/images/thread.png" title="Thread Pattern">Thread</td>
+          <td>Highly collaborative and simultaneously active chronological content</td>
+          <td>Forums: Reddit</td>
+        </tr>
+        <tr>
+          <td><img src="/images/grid.png" title="Grid Pattern">Grid</td>
+          <td>Content composed of a multitude of categories</td>
+          <td>News (modern): MSN</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <figcaption>Layout patterns and usage</figcaption>
+</figure>
 
-1. **Scroll**
-2. **Grid**
-3. **Legacy**
-4. **Thread**
-5. **Frame**
-6. **Stadium**
+<p><div>These archetypes of web design can be extended by the components of each. Above, these components are grouped into categories as <div class="box--green box--small"></div> <strong>Primary Navigation</strong>, <div class="box--red box--small"></div> <strong>Secondary Navigation / Toolbars</strong>, <div class="box--blue box--small"></div> <strong>Primary Content</strong> and <div class="box--yellow box--small"></div> <strong>Secondary Content</strong>. As such:</div></p>
 
-These archetypes of web design can be extended by the components of each. As such:
+1. **Bulletin**
+  * Combination navigation-header
+  * Single column content
+  * Usually no sidebars (functionally limited)
 
-1. **Mix**
+2. **Feed**
   * Navigation bar
   * Navigation sidebar (usually on the left)
   * Endless feed
   * External sidebar
 
-2. **Grid**
-  * Navigation bar
-  * Header bar
-  * Content sidebars
-  * Gridded content
-  * Multi-column footer
-
-3. **Legacy**
-  * Combination navigation-header
-  * Single column content
-  * Usually no sidebars (functionally limited)
-
-4. **Thread**
-  * Header bar
-  * Navigation bar
-  * Highly paginated content
-
-5. **Frame**
+3. **Frame**
   * Highly hierarchical, embedded panes of content
   * Minimal site-level features
   * Toolbars
 
-6. **Stadium**
+4. **Stadium**
   * Navigation bar
   * Large, central content
   * Compact sidebar navigation
   * External sidebar
   * Simple footer
+
+5. **Thread**
+  * Header bar
+  * Navigation bar
+  * Highly paginated content
+
+6. **Grid**
+  * Navigation bar
+  * Header bar
+  * Content sidebars
+  * Gridded content
+  * Multi-column footer
 
 This taxonomy provides a method of categorization for future layout patterns and a simple assessment of their most likely function, which is a positive indicator of their best suited purpose. For example, if we collect a group of sites with similar components and apply one of the groupings defined above, we can see that blogs are best suited to the Legacy layout pattern and social media networks make good use of a wide combination of components, as seen in the Mix pattern. Most relevant to my case studies, news media seem to be best fit by the Grid pattern.
 
