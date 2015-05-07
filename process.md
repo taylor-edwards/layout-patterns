@@ -27,8 +27,6 @@ These films are intriguing. They are representative of so many things: of screen
 
 In order to see these sites’ layouts in a broader, brighter light I needed to simplify the image sequences. Referencing low fidelity wireframes, I outlined several screenshots with simple shapes and lines to test readability. Going from the minimum up, I took note that block-level shapes weren’t descriptive enough to determine the functionality of a site, but adding too many elements that represented more ornamentation than content brought me back to the previous issue of density. I ultimately decided to fill in all advertising spaces, large images and certain interactable elements with solid colors and to only show lines representing text as headlines, navigation, or similarly emphasized content.
 
-[ Layout illustrations ]
-
 Exploring fidelity through reductive illustrations
 
 Now that I had a consistent method to discern structural basics from finished products I could start looking more deeply into specific samples. I drew upon my stop-motion films to look for sites across a theme and with large and generally usable archives. It was important that the sites I chose be similar to each other so that I would later be able to make cross-sectional examinations and determine trends reliably.
@@ -44,8 +42,6 @@ AOL is well known for its past as an internet service provider as well as its no
 
 I started investigating these news media through the identification of site redesigns. By isolating these I could pin down the most active periods of web design and track specific points across other factors, such as the most common screen dimensions and wider gamut color support at the time.
 
-[ News media site redesigns ]
-
 These visual updates often resulted in a new user experience through changes to interaction patterns
 
 By looking at every redesign, it’s clear to see that site updates have gotten less frequent as of late. This is an indicator of the changing approach to web design; from small, incremental, public tweaks to behind-the-doors full overhauls (at least visually) with great days of unveiling. There’s much to be said about the benefits of the former method. Namely, it is likely the biggest contributor to the savviness of the average adult web browser today. Developers, designers and users alike all learned how to organize and navigate digital content together as needs and wants grew and they were able to build upon simple interaction techniques one small step at a time; a process which has now led to complex web apps without the expense of reading a tutorial to check your news feed. Users today are expected to know how the web works and are seldom offered help with complicated applications or roundabout interaction flows.
@@ -59,8 +55,6 @@ Watch the animations: [AOL](/case-studies/#aol), [MSN](/case-studies/#msn) and [
 In order to be accurate in as many aspects of my animations as possible, I looked up the most common screen sizes over the past twenty years. A survey by the [Nielsen Norman Group](/sources/#nngroup) was an immediate resource and gave a good generalization of the upward trend in screen dimensions. Among [other agreeing sources](/sources/#w3schools) was [Statcounter](/sources/#statcounter), showing more detailed statistics from 2009 onward. Using a slight combination of these sources to get a wider range of data, I picked out the largest prevalent monitor size around each of my five samples.
 
 In efforts to find suitable audio to accompany the animations, I searched high and low for what I thought would be appropriate (and royalty-free) music. Ultimately, I both felt and was advised to record my own music. Using [a pair of mics](/sources/#recording) and a combination of [audio software](/sources/#recording), I decided to record Robert Muczynski’s “[Gallery](/sources/#music)” suite for unaccompanied cello. The pieces within vary naturally, but have of an earnest and jaunty vibe that pairs well with my visual approach.
-
-[ Test animations ]
 
 Before investing too much time on theory alone, I made a series of test animations to explore different visual and animation treatments. Luckily, I found my former conclusion to convey these sites' histories in an accurate and unobtrusive way and so I set to work creating a more extensive test subject with a full audio track.
 
