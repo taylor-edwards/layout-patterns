@@ -33,7 +33,7 @@ nav {
     margin-top: .33em !important;
   }
 }
-div[class^="box"] {
+span[class^="box"] {
   display: inline-block;
   height: 1em;
   vertical-align: baseline;
@@ -43,7 +43,7 @@ div[class^="box"] {
     margin: 0;
   }
 }
-div.box--small {
+span.box--small {
   height: .85em;
   margin-left: .15em;
   width: .85em;
