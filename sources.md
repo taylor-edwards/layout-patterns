@@ -58,10 +58,10 @@ Streaming video
 : 400 regular, 20px/30px
 
 Color palette, based on the typical quadratic color schemes of many tech companies with overall brighter tones for a trendy “web” feel
-: <div class="box--red"></div><div class="box--darkred"></div> Red-orange #f56 and #c45
-: <div class="box--blue"></div><div class="box--darkblue"></div> Blue #056 and #045
-: <div class="box--green"></div><div class="box--darkgreen"></div> Green #5a6 and #485
-: <div class="box--yellow"></div><div class="box"></div> Yellow #fd6
+: <span class="box--red"></span> <span class="box--darkred"></span> Red-orange #f56 and #c45
+: <span class="box--blue"></span> <span class="box--darkblue"></span> Blue #056 and #045
+: <span class="box--green"></span> <span class="box--darkgreen"></span> Green #5a6 and #485
+: <span class="box--yellow"></span> <span class="box"></span> Yellow #fd6
 
 ###Recorded music
 {: #music}

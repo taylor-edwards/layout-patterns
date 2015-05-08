@@ -61,7 +61,7 @@ Most websites can be grouped into the following categories:
   <figcaption>Layout patterns and usage</figcaption>
 </figure>
 
-<p><div>These archetypes of web design can be extended by the components of each. Above, these components are shown in categories described by their color: <div class="box--green box--small"></div> <strong>Primary Navigation</strong>, <div class="box--red box--small"></div> <strong>Secondary Navigation / Toolbars</strong>, <div class="box--blue box--small"></div> <strong>Primary Content</strong> and <div class="box--yellow box--small"></div> <strong>Secondary Content</strong>. As such:</div></p>
+<p>These archetypes of web design can be extended by the components of each. Above, these components are shown in categories described by their color: <span class="box--green box--small"></span> <strong>Primary Navigation</strong>, <span class="box--red box--small"></span> <strong>Secondary Navigation / Toolbars</strong>, <span class="box--blue box--small"></span> <strong>Primary Content</strong> and <span class="box--yellow box--small"></span> <strong>Secondary Content</strong>. As such:</p>
 
 1. **Bulletin**
   * Combination navigation-header
