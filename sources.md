@@ -101,7 +101,7 @@ Listen to, download or remix the tracks using [SoundCloud &rarr;](https://soundc
 * [Github Pages](https://pages.github.com/)
 * [Real Favicon Generator](http://realfavicongenerator.net/)
 
-* View the [source code on Github &rarr;](https://github.com/Rumudiez/Layout-Patterns)
+* View the [source code on Github &rarr;](https://github.com/taylor-edwards/Layout-Patterns)
 
 ### Internet Archive crawler
 {: #crawler}
@@ -109,7 +109,7 @@ Listen to, download or remix the tracks using [SoundCloud &rarr;](https://soundc
 * [nodejs](https://nodejs.org/)
 * [wkhtmltopdf](http://wkhtmltopdf.org/)
 
-* Get the [source code on Github &rarr;](https://github.com/Rumudiez/Web-Archive-Scraper)
+* Get the [source code on Github &rarr;](https://github.com/taylor-edwards/Web-Archive-Scraper)
 
 ### Trailer
 {: #trailer}
@@ -118,4 +118,4 @@ Audio was excerpted from [Mischa Maisky's](https://www.youtube.com/watch?v=5kwAA
 
 ---
 
-This project is entirely open source and derivative work is encouraged, except where otherwise stated. You can download and edit the [animations](https://vimeo.com/album/3382650){:title="Case study animations on Vimeo"} from [Vimeo](https://vimeo.com/rumudiez/){:title="Taylor Edwards on Vimeo"}, fork this [website's](https://github.com/Rumudiez/Layout-Patterns){:title="layoutpatterns.com source code on Github"} and the [internet archive crawler's](https://github.com/Rumudiez/Web-Archive-Scraper){:title="Internet archive crawler source code on Github"} source code from [my Github profile](https://github.com/Rumudiez/){:title="Taylor Edwards on Github"} or download and remix the [recordings](https://soundcloud.com/rumudiez/sets/muczynski-gallery-suite-for-unaccompanied-cello){:title="Audio recordings on SoundCloud"} on [SoundCloud](https://soundcloud.com/rumudiez/){:title="Taylor Edwards on SoundCloud"}.
+This project is entirely open source and derivative work is encouraged, except where otherwise stated. You can download and edit the [animations](https://vimeo.com/album/3382650){:title="Case study animations on Vimeo"} from [Vimeo](https://vimeo.com/rumudiez/){:title="Taylor Edwards on Vimeo"}, fork this [website's](https://github.com/taylor-edwards/Layout-Patterns){:title="layoutpatterns.com source code on Github"} and the [internet archive crawler's](https://github.com/taylor-edwards/Web-Archive-Scraper){:title="Internet archive crawler source code on Github"} source code from [my Github profile](https://github.com/taylor-edwards/){:title="Taylor Edwards on Github"} or download and remix the [recordings](https://soundcloud.com/rumudiez/sets/muczynski-gallery-suite-for-unaccompanied-cello){:title="Audio recordings on SoundCloud"} on [SoundCloud](https://soundcloud.com/rumudiez/){:title="Taylor Edwards on SoundCloud"}.
