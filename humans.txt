@@ -1,8 +1,6 @@
 /* TEAM */
-Designer, Developer, Researcher: Taylor Edwards
-Site:                            www.tayloredwards.net
-Twitter:                         @Rumudiez
-Location:                        Seattle, Washington
+Created by: Taylor Edwards
+Site:       tayloredwards.net
 
 /* THANKS */
 Kerri Augenstein: http://www.kaugenstein.com/
