@@ -6,7 +6,7 @@ order: 3
 permalink: /process/
 ---
 
-###Research
+### Research
 
 My first approach to analyzing layout design was to research existing design. I decided to study how web design had evolved over the past twenty years, so I wrote a simple bot that crawled the Internet Archive’s WayBack Machine and generated sequential screenshots of any given website. Using these image sequences as individual frames, I created short stop-motion films of web history.
 
@@ -42,7 +42,7 @@ By looking at every redesign, it’s clear to see that site updates have gotten 
 
 If we narrow the selection down, however, we can find that there are about five major redesigning points in each of these sites' archives. In order to help illustrate my research, I decided to use these samples as keyframes for a series of animations showing how layouts have changed over time.
 
-###Creating the animations
+### Creating the animations
 
 Watch the animations: [AOL](/case-studies/#aol), [MSN](/case-studies/#msn) and [Yahoo](/case-studies/#yahoo).
 
@@ -61,7 +61,7 @@ Before investing too much time on theory alone, I made a series of test animatio
 
 Dubbed this project's “trailer,” it shows a little bit of each site I'm featuring and proves that even with more [somber music](/sources/#trailer) that the animations could be successful.
 
-###Recording the music
+### Recording the music
 
 After creating the trailer, I sought after livelier and possibly more relevant music to animate my case studies to. Among those considered were bands like Air, Ratatat, Wax Tailor, RJD2, and Tycho. Although some tracks I reviewed seemed promising, I couldn't find any firm reason that these would produce a good, valid choice.
 
@@ -79,7 +79,7 @@ I recorded in a large, open room with my personal cello. After significant testi
 
 In mastering the recordings, I wanted to preserve the clean staccato feel of the pieces “Shanty” and “Black Iron” without losing the soft, sustained slurs of “Noonday Heat.” I ran each recording's room mic through an initial compressor to match the volume level of the contact mic, which in turn was fed into a digital amp tuned to produce a bright and natural sound. The contact mic also primarily fed a reverb effect return track to softly fill in frequency gaps where my room didn't reverberate effectively. A second return track was used to crossfade the left and right channels to produce a more equally distributed input for the master track, which is where I lightly equalized frequency levels before compressing and limiting the audio to produce broadcast-ready tracks.
 
-###Creating the website
+### Creating the website
 
 I created this website [from scratch](/sources/#website) in order to present my project in its native medium and most directly to its audience. This website uses modern (2015) web standards and was developed for equally modern browsers.
 

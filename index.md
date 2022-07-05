@@ -102,7 +102,7 @@ This taxonomy provides a method of categorization for future layout patterns and
 
 The uniformity of layout patterns, in essence, is also an indication of homogeneity across web design. However, it is just as easily said that this trait is simply a necessity in the unique and highly competitive environment of the web. The focus of this project was neither to prove nor disprove such a moot point though, so this overview and the case studies largely ignore this avenue of thought.
 
-###On Continuation and Usage
+### On Continuation and Usage
 
 I believe my definitions of layout patterns can be further abstracted into a more flexible and less content-based system of components. This project, seen through the lens of the web, should be a stepping stone to a more genuine, unbiased view of all digital design. Hopefully layout patterns can be utilized in design practice to provide more promising methods of experimentation and to help beginners understand just how multifaceted digital design can be.
 

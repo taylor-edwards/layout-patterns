@@ -8,7 +8,7 @@ permalink: /case-studies/
 
 These case studies focus on the websites AOL, MSN and Yahoo. They heavily reference the evolution of web design to evaluate current design trends, and as such, the primary visual reference shown in each case study is an animation illustrating five major redesigns from each of the chosen websites over the past two decades. These animations can be directly compared and provide an accurate representation of each given snapshot.
 
-###The case studies
+### The case studies
 
 <figure id="yahoo">
   <div class="video--frame">
@@ -31,7 +31,7 @@ These case studies focus on the websites AOL, MSN and Yahoo. They heavily refere
   <figcaption>AOL</figcaption>
 </figure>
 
-##Why choose AOL, MSN and Yahoo?
+## Why choose AOL, MSN and Yahoo?
 
 As stated above, I needed sites with a certain amount of history to have enough samples to study, but in my initial research and data collection, many older websites were developed too specifically for certain browsers at one point or another. Due to these “optimizations,” many web pages cannot be rendered consistently using modern HTML and CSS engines. Websites with larger and more varied audiences did a better job of adhering to progressive enhancement as a standard, though, so sites like AOL, MSN and Yahoo resulted in much more reliable samples than, say, Adobe, which used Flash for its primary (and occasionally sole) content delivery system throughout the majority of its archives.
 
